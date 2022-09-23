@@ -12,3 +12,18 @@
 body {
   font-family: 'Karla', sans-serif;
 }
+
+.bg1 {
+  background-color: hsl(256, 26%, 20%);
+}
+
+.bg2 {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.font1 {
+  font-size: 0.9rem;
+}
+.font2 {
+  font-size: 0.95rem;
+}

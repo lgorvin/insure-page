@@ -25,7 +25,7 @@ function CollapsibleExample() {
           <Nav className="me-auto mx-0"></Nav>
           <Nav>
             <Nav.Link
-              className="mr-0 text-xl mt-8 lg:mt-0 lg:text-sm  text-center lg:ml-0"
+              className="mr-0 text-xl mt-8 lg:mt-[8px] lg:text-sm  text-center lg:ml-0"
               href="#deets"
             >
               HOW WE WORK
